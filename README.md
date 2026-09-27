@@ -1,70 +1,93 @@
 # Piyush Kumar | Personal Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Piyush%20Kumar-00C8FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  <img src="https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge" alt="Status"/>
+  <a href="https://piyush-kumar-software-developer-ai-systems-portfo.ai.studio/">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Live-00C853?style=for-the-badge" alt="Portfolio Status"/>
 </p>
 
-## About
+<p align="center">
+  A modern, futuristic personal portfolio showcasing my skills, projects, certifications, and journey as an aspiring Software Developer.
+</p>
 
-Welcome to my personal portfolio! I am **Piyush Kumar**, a BCA student and aspiring Software Developer with a strong interest in Java development, web technologies, and Artificial Intelligence.
+## 🌐 Live Portfolio
 
-This portfolio showcases my technical skills, projects, certifications, and learning journey as I continue building practical solutions and growing as a developer.
+**Explore my portfolio:** [Piyush Kumar — Software Developer & AI Systems](https://piyush-kumar-software-developer-ai-systems-portfo.ai.studio/)
 
-Designed with a modern, futuristic aesthetic, the website reflects my passion for technology, creativity, and innovation.
+## 👨‍💻 About Me
 
-## Features
+Hi, I'm **Piyush Kumar**, a BCA student and aspiring Software Developer passionate about Java development, web technologies, and Artificial Intelligence.
 
-* Modern and futuristic UI with a clean, professional design.
-* Responsive layout for desktop, tablet, and mobile devices.
+I enjoy building practical applications, exploring emerging technologies, and collaborating with teams to solve real-world problems. I am continuously improving my technical, problem-solving, communication, and teamwork skills.
+
+My portfolio represents my technical journey, hands-on projects, and commitment to continuous learning and professional growth.
+
+## ✨ Features
+
+* Modern, futuristic, and professional user interface.
+* Responsive design for desktop, tablet, and mobile devices.
 * Dedicated sections for About Me, Skills, Projects, Certifications, and Contact.
-* Project showcases with descriptions, screenshots, and relevant links.
-* Interactive animations and visual elements.
+* Project showcases with descriptions, screenshots, and live demonstrations.
+* Interactive visual elements and animations.
 * Direct links to GitHub, LinkedIn, and email.
 
-## Projects
+## 🚀 Featured Projects
 
 ### 1. AI Resume Analyzer
 
-An AI-powered resume analysis application that evaluates resume compatibility with job descriptions, extracts relevant skills, identifies missing skills, and provides resume improvement insights.
+An AI-powered resume analysis application that evaluates resume compatibility with job descriptions, extracts relevant skills, identifies missing skills, and provides useful resume improvement insights.
 
-* **Tech Stack:** Python, Streamlit, NLP
-* **Live Demo:** [Try the Application](https://ai-resume-analyzer-system.streamlit.app/)
-* **GitHub:** [View Repository](https://github.com/PiyushKumar-0/AI-Resume-Analyzer-System)
+* **Technologies:** Python, Streamlit, NLP
+* **Live Demo:** [Try AI Resume Analyzer](https://ai-resume-analyzer-system.streamlit.app/)
+* **GitHub:** [View Source Code](https://github.com/PiyushKumar-0/AI-Resume-Analyzer-System)
 
 ### 2. SafeRoute India
 
 A safety-focused web application designed to help users explore safer travel routes, access emergency services, view safety-related information, and report incidents.
 
+Developed as part of a website development competition with Team MINDMATRIX.
+
 * **Live Demo:** [Visit SafeRoute India](https://saferouteindia.vercel.app/)
-* **GitHub:** [View Repository](https://github.com/PiyushKumar-0/Safe-Route-India)
+* **GitHub:** [View Source Code](https://github.com/PiyushKumar-0/Safe-Route-India)
 
 ### 3. Jal-Rakshak
 
-A collaborative hackathon project focused on water-resource management and citizen-centric monitoring, featuring role-based interfaces for citizens, panchayat teams, field workers, and district evaluators.
+A collaborative hackathon project focused on water-resource management and citizen-centric monitoring. It includes role-based interfaces for citizens, panchayat teams, field workers, and district evaluators.
 
-* **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+* **Technologies:** React, TypeScript, Vite, Tailwind CSS
 * **Live Demo:** [Visit Jal-Rakshak](https://jal-rakshak-jh8k-c9l008hxx-mind-matrix4.vercel.app/)
-* **GitHub:** [View Repository](https://github.com/sarvasva-dev/Jal-Rakshak)
+* **GitHub:** [View Source Code](https://github.com/sarvasva-dev/Jal-Rakshak)
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Category              | Technologies                             |
 | --------------------- | ---------------------------------------- |
 | Programming Languages | Java, Python, C, C++                     |
 | Web Development       | HTML, CSS, JavaScript, React, TypeScript |
 | Database              | MySQL, DBMS                              |
-| Tools & Platforms     | Git, GitHub, VS Code, Google Colab       |
+| Tools                 | Git, GitHub, VS Code, Google Colab       |
 | Deployment            | Vercel, Netlify, Render, Streamlit       |
 
-## Getting Started
+## 🎓 Education & Certifications
 
-To run this portfolio locally, follow these steps:
+* Bachelor of Computer Applications (BCA), Dr. Virendra Swarup Institute Of Computer Studies.
+* Java Fundamentals — Infosys Springboard.
+* AI/ML Training — SKDeft.
+* Full Stack Web Development — SKDeft.
+* Web Development — SKDeft.
+* JPMorgan Software Engineering Job Simulation — Forage.
+* Deloitte Cyber Job Simulation — Forage.
+* GenAI Powered Data Analytics Job Simulation — Tata Forage.
+
+## 💻 Run Locally
+
+Follow these steps to run the portfolio on your local machine.
 
 ### Prerequisites
 
-* Node.js and npm installed on your system.
-* Git installed on your system.
+* Node.js and npm
+* Git
 
 ### Installation
 
@@ -77,7 +100,7 @@ To run this portfolio locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd "My Portfolio"
+   cd piyush-portfolio
    ```
 
 3. Install the dependencies:
@@ -92,22 +115,28 @@ To run this portfolio locally, follow these steps:
    npm run dev
    ```
 
-5. Open the local URL displayed in your terminal to view the portfolio.
+5. Open the local URL displayed in your terminal.
 
-> Note: The commands assume the project uses a Vite-based setup. Follow the scripts defined in `package.json` if your setup differs.
+> Note: These instructions assume the repository uses a Vite-based setup. Refer to the scripts in `package.json` if your project configuration differs.
 
-## Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/PiyushKumar-0">GitHub</a> •
-  <a href="https://www.linkedin.com/in/piyush-kumar0">LinkedIn</a> •
-  <a href="mailto:piyushkumar150406@gmail.com">Email</a>
+  <a href="https://github.com/PiyushKumar-0">
+    <img src="https://img.shields.io/badge/GitHub-PiyushKumar--0-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-kumar0">
+    <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:piyushkumar150406@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
-I am always interested in connecting with developers, collaborating on meaningful projects, participating in hackathons, and exploring opportunities to learn and grow in software development.
 
 ---
 
 <p align="center">
-  Built with passion by <b>Piyush Kumar</b>
+  <b>Designed with creativity. Built with curiosity. Driven by innovation.</b>
+  <br/>
+  © 2026 Piyush Kumar
 </p>
